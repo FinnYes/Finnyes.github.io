@@ -17,7 +17,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(triggers.svgs);
+    background: url(triggers.svg);
     opacity: 0;
 }
 

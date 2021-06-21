@@ -7,6 +7,29 @@
         margin-top: -280px;*/
 }
 
+.ds4 .triggers {
+    width: 588px;
+    height: 90px;
+    position: absolute;
+    left: 109px;
+}
+
+.ds4 .trigger {
+    width: 99px;
+    height: 100%;
+    background: url(triggers.svg);
+    opacity: 0;
+}
+
+.ds4 .trigger.left {
+    float: left;
+}
+
+.ds4 .trigger.right {
+    float: right;
+    background-position-x: 99px;
+}
+
 .ds4 .bumper {
     width: 99px;
     height: 23px;
@@ -19,7 +42,7 @@
     width: 588px;
     height: 23px;
     left: 109px;
-    top: 94px;
+    top: 95px;
 }
 
 .ds4 .bumper.pressed {

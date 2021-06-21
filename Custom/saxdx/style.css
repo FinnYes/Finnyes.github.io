@@ -17,7 +17,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(triggers.svgs);
+    background: url(triggers.svg);
     opacity: 0;
 }
 
@@ -42,7 +42,7 @@
     width: 588px;
     height: 23px;
     left: 109px;
-    top: 94px;
+    top: 95px;
 }
 
 .ds4 .bumper.pressed {
